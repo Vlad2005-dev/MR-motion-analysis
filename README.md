@@ -1,8 +1,14 @@
 # PET/MR Motion Analysis using EPI BOLD MRI
 
-This repository contains a small analysis pipeline to extract and visualise rigid-body motion of a moving PET/MR head phantom using motion parameters derived from EPI BOLD MRI.
+This repository contains a small analysis pipeline to extract and visualise 
+rigid-body motion of a moving PET/MR head phantom using motion parameters 
+derived from EPI BOLD MRI.
 
-The work is based on real PET/MR phantom data acquired on a Siemens Biograph mMR system and is inspired by the motion-correction framework described in *Einspänner et al., 2022*.
+The work is based on real PET/MR phantom data acquired on a Siemens Biograph
+mMR system and is inspired by the motion-correction framework described in 
+*Einspänner et al., 2022*. The paper can be found in references/
+
+To see the plots visualing head movement see results/
 
 ---
 
