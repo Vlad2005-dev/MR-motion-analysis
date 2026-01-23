@@ -74,6 +74,9 @@ Each timepoint corresponds to 2 seconds, matching the EPI repetition time.
 
 ## References
 
+EPI BOLD MR datasets used were obtained from this link: https://zenodo.org/records/7862046
+motion_pattern_02.tar.gz, Translation_04mm.tar.gz, Translation_08mm.tar.gz, Translation_12mm.tar.gz, Translation_20mm.tar.gz are the folders that were downloaded from the link above. It has various PET/MR data, but only EPI BOLD MR images were used. 
+
 Einspänner, E. et al.
 Evaluating different methods of MR-based motion correction in simultaneous PET/MR using a head phantom moved by a robotic system.
 EJNMMI Physics, 2022.
